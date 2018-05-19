@@ -1,0 +1,11 @@
+{
+  "currentId" : 4,
+  "list" : [ {
+    "id" : 4,
+    "nombre" : "Ir a fiesta de Paula",
+    "fecha" : "12/05/2018",
+    "lugar" : "Casa de Paula",
+    "observaciones" : "Llevar regalo",
+    "tipo" : "Ocio"
+  } ]
+}
